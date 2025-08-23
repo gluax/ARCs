@@ -4,7 +4,8 @@ title: Aleo Virtual Machine (AVM)
 authors: howardwu, acoglio, collinc97, d0cd
 discussion: https://github.com/AleoHQ/ARCs/discussions/5
 topic: Protocol
-status: Living
+status: Active
+signature_domain: aleo-gov-v1
 created: 2020-02-07
 ---
 
