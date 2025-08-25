@@ -4,7 +4,8 @@ title: Leo and Aleo instructions
 authors: acoglio@aleo.org, collin@aleo.org, ericm@aleo.org, howard@aleo.org, pranav@aleo.org
 discussion: https://github.com/AleoHQ/ARCs/discussions/17
 topic: Application
-status: Living
+status: Active
+signature_domain: aleo-gov-v1
 created: 9-29-2022
 ---
 
