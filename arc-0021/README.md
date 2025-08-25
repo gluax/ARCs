@@ -4,7 +4,7 @@ title: Multi-Token Standard Program
 authors: evanmarshall
 discussion: N/A (Retroactive Proposal)
 topic: Application
-status: Living
+status: Deprecated
 created: 2024-06-07
 ---
 
